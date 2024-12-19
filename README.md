@@ -73,3 +73,13 @@ pnpm --filter cli exec node ./dist/index.js minus 1 2
 
   npx changeset init
 ```
+
+#### 11、初始化 git
+
+```js
+  git init
+
+  git add .
+
+  git commit -m 'first commit'
+```
